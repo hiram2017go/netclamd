@@ -1,0 +1,12 @@
+D:\vs2015代码\clamsocket\clamsocket\bin\Debug\clamsocket.exe.config
+D:\vs2015代码\clamsocket\clamsocket\bin\Debug\clamsocket.exe
+D:\vs2015代码\clamsocket\clamsocket\bin\Debug\clamsocket.pdb
+D:\vs2015代码\clamsocket\clamsocket\obj\Debug\clamsocket.exe
+D:\vs2015代码\clamsocket\clamsocket\obj\Debug\clamsocket.pdb
+D:\vs2015代码\clamsocket\clamsocket\obj\Debug\clamsocket.csprojResolveAssemblyReference.cache
+F:\clamsocket\clamsocket\bin\Debug\clamsocket.exe.config
+F:\clamsocket\clamsocket\obj\Debug\clamsocket.exe
+F:\clamsocket\clamsocket\obj\Debug\clamsocket.pdb
+F:\clamsocket\clamsocket\bin\Debug\clamsocket.exe
+F:\clamsocket\clamsocket\bin\Debug\clamsocket.pdb
+F:\clamsocket\clamsocket\obj\Debug\clamsocket.csprojResolveAssemblyReference.cache
